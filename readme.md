@@ -172,3 +172,5 @@ resource "aws_api_gateway_integration" "lambda_integration_search" {
   uri                     = aws_lambda_function.todo_api_lambda.invoke_arn
 }
 ```
+
+Accordingly modify the terraform/main.tf 
