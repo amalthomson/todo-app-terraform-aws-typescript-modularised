@@ -20,7 +20,6 @@ Ensure you have the following software installed and configured on your local ma
 ### Clone the Repository
 ```sh
 git clone https://github.com/amalthomson/todo-app-terraform-aws-typescript-modularised.git
-
 ```
 
 ### Install Dependencies
