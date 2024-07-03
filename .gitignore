@@ -1,0 +1,11 @@
+node_modules
+jspm_packages
+
+.serverless
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+outputs.txt
+
+terraform/modules/lambda/lambda.zip
