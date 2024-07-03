@@ -11,7 +11,7 @@ Ensure you have the following software installed and configured on your local ma
 - **Node** (v18.x.x)
 - **npm** (v9.x.x)
 - **typescript** (v5.x.x)
-- **aws-cli** (v2.x.x) - configured with your AWS account credentials
+- **aws-cli** (v2.x.x)
 - **terraform** (v1.x.x)
 - **AWS Account** with appropriate permissions
 
